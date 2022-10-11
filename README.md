@@ -1,2 +1,2 @@
 # Prog_labs
-Laboratory works on course "Programming"
+Laboratory works on the course "Programming"
