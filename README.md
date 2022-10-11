@@ -51,4 +51,8 @@ DecStr operator + (const DecStr&, int).\
 DecStr operator - (const DecStr&, const DecStr&) – оператор вычитания.\
 int operator > (const DecStr&, const DecStr&) – оператор проверки на больше.
 
+# Вставки на языке Ассемблера
+Функции написаны на языке MASM.\
+Первая функция summa описана в файле summa.asm. Она вычисляет сумму двух чисел формата int.\
+Вторая функция itostr описана в файле itostr.asm. Она переводит число формата int в формат char*.
 
